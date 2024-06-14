@@ -4,7 +4,7 @@ title: Home
 ---
 
 <header style="display: flex; align-items: center; justify-content: space-between;">
-  <img src="logo.png" alt="NP Logo" style="width: 500px; height: auto; margin-right: 20px;">
+  <img src="logo.png" alt="NP Logo" style="width: 400px; height: auto; margin-right: 20px;">
   <div style="flex-grow: 1;">
     <h1>Nyanga P - DevOps and Cloud Engineer</h1>
     <p>
@@ -178,6 +178,7 @@ title: Home
   <p>Location: Birmingham, UK</p>
   <p>Pronouns: She/Her</p>
 </section>
+
 
 
 
