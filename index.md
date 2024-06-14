@@ -2,6 +2,7 @@
 layout: default
 title: Home
 ---
+
 <script src="auth.js"></script>
 
 <header style="display: flex; align-items: center; justify-content: space-between;">
