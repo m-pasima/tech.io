@@ -2,7 +2,7 @@
 ```markdown
 # Personal Portfolio Website
 
-Hi, my name is **N Pasima**, and I am a DevOps and Cloud Engineer.
+Hi, my name is N Pasima, and I am a DevOps and Cloud Engineer.
 
 This repository contains the source code for my personal portfolio website.
 It showcases my skills, tools, and experience in DevOps and Cloud Engineering.
