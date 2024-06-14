@@ -3,6 +3,15 @@ layout: default
 title: Home
 ---
 
+<header>
+  <h1>Nyanga P - DevOps and Cloud Engineer</h1>
+  <p>
+    <a href="https://www.linkedin.com/in/nyanga-p-674721258/" target="_blank">
+      <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+  </p>
+</header>
+
 <section id="objective" class="home-section">
   <h2>Objective</h2>
   <p>As a DevOps and Cloud Engineer with over 7 years of experience, I am dedicated to leveraging my expertise in cloud solutions, automation, and CI/CD processes to drive efficiency and innovation in technology environments.</p>
@@ -77,6 +86,7 @@ title: Home
   <p>
     <img src="https://img.shields.io/badge/-Prometheus-E6522C?&style=for-the-badge&logo=Prometheus&logoColor=white" alt="Prometheus">
     <img src="https://img.shields.io/badge/-Grafana-F46800?&style=for-the-badge&logo=Grafana&logoColor=white" alt="Grafana">
+    <img src="https://img.shields.io/badge/-CloudWatch-FF9900?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white" alt="CloudWatch">
   </p>
 </section>
 
@@ -165,6 +175,5 @@ title: Home
   <p>Location: Birmingham, UK</p>
   <p>Pronouns: She/Her</p>
 </section>
-
 
 
