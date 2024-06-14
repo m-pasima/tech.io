@@ -1,4 +1,45 @@
-title: "Nyanga P - DevOps and Cloud Engineer Portfolio"
-description: "Professional portfolio of Nyanga P showcasing skills, tools, experience, and contact information."
+title: Nyanga P - DevOps and Cloud Engineer
+email: passypet@gmail.com
+description: >-
+  Nyanga P is a DevOps and Cloud Engineer with over 7 years of experience, dedicated to leveraging expertise in cloud solutions, automation, and CI/CD processes to drive efficiency and innovation in technology environments.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://m-pasima.github.io" # the base hostname & protocol for your site
+
+# Build settings
 theme: jekyll-theme-cayman
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-paginate
+
+paginate: 5
+
+# Social Links
+github_username: m-pasima
+linkedin_username: nyanga-p-674721258
+
+# Markdown settings
+markdown: kramdown
+highlighter: rouge
+
+# SEO and Social
+seo:
+  type: Person
+  name: Nyanga P
+  description: DevOps and Cloud Engineer with over 7 years of experience.
+  url: "https://m-pasima.github.io"
+  same_as:
+    - https://www.linkedin.com/in/nyanga-p-674721258/
+    - https://github.com/m-pasima
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
 
