@@ -1,6 +1,5 @@
 title: "Nyanga P - DevOps and Cloud Engineer Portfolio"
 description: "Professional portfolio of Nyanga P showcasing skills, tools, experience, and contact information."
-theme: "minimal-mistakes-jekyll"
 remote_theme: "mmistakes/minimal-mistakes"
 
 plugins:
@@ -11,3 +10,4 @@ plugins:
 markdown: kramdown
 kramdown:
   input: GFM
+
