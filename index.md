@@ -3,8 +3,8 @@ layout: default
 title: Home
 ---
 
-<header>
-  <img src="logo.png" alt="NP Logo" style="width: 800px; height: auto; display: block; margin: 0 auto;">
+<header style="text-align: center;">
+  <img src="logo.png" alt="NP Logo" style="width: 400px; height: auto; display: block; margin: 0 auto;">
   <h1>Nyanga P - DevOps and Cloud Engineer</h1>
   <p>
     <a href="https://www.linkedin.com/in/nyanga-p-674721258/" target="_blank">
