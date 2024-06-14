@@ -2,6 +2,7 @@
 layout: default
 title: Home
 ---
+<script src="auth.js"></script>
 
 <header style="display: flex; align-items: center; justify-content: space-between;">
   <img src="logo.png" alt="NP Logo" style="width: 400px; height: auto; margin-right: 20px;">
