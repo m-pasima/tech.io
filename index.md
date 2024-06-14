@@ -4,7 +4,7 @@ title: Home
 ---
 
 <header>
-  <img src="logo.png" alt="NP Logo" style="width: 100px; height: auto; display: block; margin: 0 auto;">
+  <img src="logo.png" alt="NP Logo" style="width: 400px; height: auto; display: block; margin: 0 auto;">
   <h1>Nyanga P - DevOps and Cloud Engineer</h1>
   <p>
     <a href="https://www.linkedin.com/in/nyanga-p-674721258/" target="_blank">
@@ -176,5 +176,6 @@ title: Home
   <p>Location: Birmingham, UK</p>
   <p>Pronouns: She/Her</p>
 </section>
+
 
 
