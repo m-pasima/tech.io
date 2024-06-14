@@ -2,7 +2,7 @@
 ```markdown
 # Personal Portfolio Website
 
-Hi, my name is **<span style="color: #0072b1;">N Pasima</span>**, and I am a DevOps and Cloud Engineer.
+Hi, my name is **N Pasima**, and I am a DevOps and Cloud Engineer.
 
 This repository contains the source code for my personal portfolio website. It showcases my skills, tools, and experience in DevOps and Cloud Engineering. The site was built using Jekyll and is hosted on GitHub Pages. You can use this template to create your own portfolio website.
 
@@ -78,5 +78,5 @@ To deploy the site, push your changes to your repository on GitHub:
 If you have suggestions for improvements, feel free to fork the repository and create a pull request or open an issue.
 
 
-```
+
 
