@@ -3,14 +3,16 @@ layout: default
 title: Home
 ---
 
-<header style="text-align: center;">
-  <img src="logo.png" alt="NP Logo" style="width: 600px; height: auto; display: block; margin: 0 auto;">
-  <h1>Nyanga P - DevOps and Cloud Engineer</h1>
-  <p>
-    <a href="https://www.linkedin.com/in/nyanga-p-674721258/" target="_blank">
-      <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
-  </p>
+<header style="display: flex; align-items: center; justify-content: space-between;">
+  <img src="logo.png" alt="NP Logo" style="width: 150px; height: auto; margin-right: 20px;">
+  <div style="flex-grow: 1;">
+    <h1>Nyanga P - DevOps and Cloud Engineer</h1>
+    <p>
+      <a href="https://www.linkedin.com/in/nyanga-p-674721258/" target="_blank">
+        <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+      </a>
+    </p>
+  </div>
 </header>
 
 <section id="objective" class="home-section">
