@@ -1,6 +1,6 @@
 ---
-layout: home
-title: "Home"
+layout: default
+title: Home
 ---
 
 <section id="objective" class="home-section">
@@ -98,71 +98,6 @@ title: "Home"
     <li>Set up monitoring metrics in the GCP environment.</li>
     <li>Configured and set up disaster recovery solutions in the production environment.</li>
     <li>Planned projects, broke down tasks, and created Jira tasks.</li>
-    <li>Documented projects using Confluence.</li>
-  </ul>
+    <li>Document
 
-  <h3>DevOps Engineer, BP</h3>
-  <p><strong>April 2020 – March 2023 | London, United Kingdom</strong></p>
-  <ul>
-    <li>Engineered intricate CI/CD pipelines, utilizing Jenkins and GitHub Actions, allowing faster and reliable deployments.</li>
-    <li>Led the transition from a monolithic architecture to a microservices-based setup, from Tomcat to EKS substantially improving system reliability and scalability.</li>
-    <li>Implemented a robust monitoring solution incorporating elevated security protocols within Linux-based systems, Docker containers, and Kubernetes clusters in both AWS EKS and GCP GKE.</li>
-    <li>Created and configured OpenVPN, creating user groups for secure and role-based access. Used VPNs for secure CI/CD deployments.</li>
-    <li>Wrote Terraform and Terragrunt scripts for automated infrastructure provisioning on AWS.</li>
-    <li>Utilized Ansible with dynamic inventory for server configuration.</li>
-    <li>Involved in the recruitment process, training new team members, and introducing them to our technology stack.</li>
-    <li>Regularly attended job-related seminars and training sessions to keep up-to-date with the latest industry trends and technologies.</li>
-    <li>Configured and set up IAM roles for contractors.</li>
-    <li>Configured and set up various AWS services, including Application Load Balancer (ALB), Virtual Private Cloud (VPC), subnets, CloudFront, Relational Database Service (RDS), DynamoDB, Route 53, Web Application Firewall (WAF), Simple Storage Service (S3), Elastic File System (EFS), Identity and Access Management (IAM), Secrets Manager, Certificate Manager, CloudWatch, and Auto Scaling groups, among others.</li>
-  </ul>
-
-  <h3>Build and Release Engineer, Sky</h3>
-  <p><strong>November 2017 – March 2020 | London, United Kingdom</strong></p>
-  <ul>
-    <li>Developed an automated build process integrating Jenkins, Git, Maven, SonarQube, Nexus, Docker, Ansible, and Terraform.</li>
-    <li>Collaborated across teams for web software build, release, and deployment projects.</li>
-    <li>Created Jenkinsfile for automated deployments.</li>
-    <li>Configured and managed Jenkins server for CI/CD pipelines.</li>
-    <li>Automated the software development process and monitored infrastructure performance using New Relic.</li>
-    <li>Modified Helm charts for deployments.</li>
-    <li>Ensured compliance with the company’s DevOps standards.</li>
-    <li>Configured NACL, ACL, and security groups on AWS for access control.</li>
-    <li>Supported and maintained hardware and software infrastructure on Linux-based systems.</li>
-    <li>Performed manual production deployments and shadowed senior engineers.</li>
-    <li>Participated in project planning and task allocation.</li>
-  </ul>
-
-  <h3>Junior AWS Cloud and Linux Engineer, Diebold Nixdorf Software Partner B.V.</h3>
-  <p><strong>June 2016 – September 2017 | Bromley, United Kingdom</strong></p>
-  <ul>
-    <li>Leveraged AWS Cloud Practitioner expertise for robust AWS service deployment including EC2, VPC, Security Groups, ASG, IAM, Route 53, and ELB.</li>
-    <li>Utilized Infrastructure as Code (Terraform) for automated AWS resource provisioning, enhancing deployment efficiency and environment consistency.</li>
-    <li>Administered RHEL operating systems, ensuring system reliability, performance, and security through regular updates and patch management.</li>
-    <li>Applied Agile methodology for collaborative project delivery, participating in stand-ups, sprint planning, and retrospectives.</li>
-    <li>Engineered cloud solutions with AWS, setting up scalable and resilient architectures for enterprise applications.</li>
-    <li>Maintained hardware and software infrastructure in compliance with best practices, including security and data protection strategies.</li>
-    <li>Conducted manual production deployments using Linux commands for precise release control and immediate issue resolution.</li>
-    <li>Engaged in continuous learning and mentorship by shadowing senior engineers, addressing complex issues with proficient support.</li>
-  </ul>
-</section>
-
-<section id="education" class="home-section">
-  <h2>Education</h2>
-  <p><strong>BSc Computer Science, Landmark Metropolitan University</strong><br>Buea, Cameroon</p>
-</section>
-
-<section id="interests" class="home-section">
-  <h2>Interests</h2>
-  <p>Reading</p>
-  <p>Travelling</p>
-</section>
-
-<section id="contact" class="home-section">
-  <h2>Contact</h2>
-  <p><strong>Nyanga P</strong></p>
-  <p>Email: <a href="mailto:passypet@gmail.com">passypet@gmail.com</a></p>
-  <p>Phone: +447533020152</p>
-  <p>Location: Birmingham, UK</p>
-  <p>Pronouns: She/Her</p>
-</section>
 
