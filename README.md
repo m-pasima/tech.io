@@ -1,4 +1,3 @@
-```markdown
 # Personal Portfolio Website
 
 Hello! I'm **Nyanga P**, a passionate DevOps and Cloud Engineer. This repository contains the source code for my personal portfolio website, where I showcase my expertise and share insights into my journey.
@@ -25,7 +24,7 @@ To run this project, you will need to have the following installed:
 
 1. **Clone the repository**:
    ```sh
-   git clone https://github.com/m-pasima/techy.git
+  https://github.com/m-pasima/tech.io.git
    cd techy
    ```
 
@@ -80,6 +79,10 @@ To deploy the site, push your changes to your repository on GitHub:
 ## Contributing
 
 If you have suggestions for improvements, feel free to fork the repository and create a pull request or open an issue.
+
+
+
+
 
 
 
