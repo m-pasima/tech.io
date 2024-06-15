@@ -46,6 +46,10 @@ title: Home
         <td><a href="https://github.com/m-pasima/Security-Implementation-Project.git">Security Implementation Project</a></td>
       </tr>
       <tr>
+        <td>Hosting a WordPress Website on AWS EC2</td>
+        <td><a href="https://github.com/m-pasima/Hosting-a-WordPress-Website-on-AWS-EC2.git">WordPress Website</a></td>
+      </tr>
+      <tr>
         <td>Cloud Architecture and Deployment</td>
         <td><a href="https://github.com/m-pasima/Cloud-Deployment-Project.git">Cloud Deployment Project</a></td>
       </tr>
