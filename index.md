@@ -24,7 +24,7 @@ title: Home
 </section>
 
 <section id="skills" class="home-section" style="background-color: #f7f7f7; padding: 20px; border-radius: 8px; margin-bottom: 20px;">
-  <h2>Skills</h2>
+  <h2 id="skills">Skills</h2>
   <table class="table table-striped">
     <thead>
       <tr>
@@ -62,7 +62,7 @@ title: Home
 </section>
 
 <section id="tools" class="home-section" style="background-color: #e9ecef; padding: 20px; border-radius: 8px; margin-bottom: 20px;">
-  <h2>Tools</h2>
+  <h2 id="tools">Tools</h2>
   <h3>CI/CD and Automation</h3>
   <p>
     <img src="https://img.shields.io/badge/-Jenkins-D24939?&style=for-the-badge&logo=Jenkins&logoColor=white" alt="Jenkins">
@@ -97,7 +97,7 @@ title: Home
 </section>
 
 <section id="experience" class="home-section" style="background-color: #f7f7f7; padding: 20px; border-radius: 8px; margin-bottom: 20px;">
-  <h2>Professional Experience</h2>
+  <h2 id="experience">Professional Experience</h2>
   <h3>Senior DevOps Engineer, Atomix LTD</h3>
   <p><strong>March 2023 – Present | Suffolk, United Kingdom</strong></p>
   <ul>
@@ -163,18 +163,18 @@ title: Home
 </section>
 
 <section id="education" class="home-section" style="background-color: #e9ecef; padding: 20px; border-radius: 8px; margin-bottom: 20px;">
-  <h2>Education</h2>
+  <h2 id="education">Education</h2>
   <p><strong>BSc Computer Science, Landmark Metropolitan University</strong><br>Buea, Cameroon</p>
 </section>
 
 <section id="interests" class="home-section" style="background-color: #f7f7f7; padding: 20px; border-radius: 8px; margin-bottom: 20px;">
-  <h2>Interests</h2>
+  <h2 id="interests">Interests</h2>
   <p>Reading</p>
   <p>Travelling</p>
 </section>
 
 <section id="contact" class="home-section" style="background-color: #e9ecef; padding: 20px; border-radius: 8px; margin-bottom: 20px;">
-  <h2>Contact</h2>
+  <h2 id="contact">Contact</h2>
   <p><strong>Nyanga P</strong></p>
   <p>Email: <a href="mailto:passypet@gmail.com">passypet@gmail.com</a></p>
   <p>Phone: +447533020152</p>
