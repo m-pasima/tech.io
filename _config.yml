@@ -19,23 +19,5 @@ paginate: 5
 github_username: m-pasima
 linkedin_username: nyanga-p-674721258
 
-nav_links:
-  - title: "Home"
-    url: "/"
-  - title: "About"
-    url: "/about/"
-  - title: "Skills"
-    url: "/skills/"
-  - title: "Experience"
-    url: "/experience/"
-  - title: "Education"
-    url: "/education/"
-  - title: "Interests"
-    url: "/interests/"
-  - title: "Contact"
-    url: "/contact/"
-  - title: "GitHub"
-    url: "https://github.com/{{ site.github_username }}"
-
 
 
