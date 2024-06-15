@@ -2,11 +2,9 @@
 ```markdown
 # Personal Portfolio Website
 
-Hi, my name is N Pasima, and I am a DevOps and Cloud Engineer.
+Hi, my name is **<span style="color: #0072b1;">Nyanga P</span>**, and I am a DevOps and Cloud Engineer.
 
-This repository contains the source code for my personal portfolio website.
-It showcases my skills, tools, and experience in DevOps and Cloud Engineering.
-The site was built using Jekyll and is hosted on GitHub Pages. You can use this template to create your own portfolio website.
+This repository contains the source code for my personal portfolio website. It showcases my skills, tools, and experience in DevOps and Cloud Engineering. The site was built using Jekyll and is hosted on GitHub Pages. You can use this template to create your own portfolio website.
 
 ## Getting Started
 
@@ -21,8 +19,8 @@ To run this project, you will need to have the following installed:
 
 1. **Clone the repository**:
    ```sh
-   git clone https://github.com/m-pasima/n-pasima.tech.io.git
-   cd n-pasima.tech.io
+   git clone https://github.com/m-pasima/techy.git
+   cd techy
    ```
 
 2. **Install Jekyll and Bundler**:
@@ -78,6 +76,18 @@ To deploy the site, push your changes to your repository on GitHub:
 ## Contributing
 
 If you have suggestions for improvements, feel free to fork the repository and create a pull request or open an issue.
+
+
+This `README.md` includes:
+- A brief introduction and purpose of the repository.
+- Prerequisites for setting up the project.
+- Detailed setup instructions to get the site running locally.
+- Customization steps for personalizing the site.
+- Deployment instructions for GitHub Pages.
+- A section inviting contributions.
+- License information.
+
+Feel free to adjust any specific details or sections as needed!
 
 
 
