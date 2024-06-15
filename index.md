@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-<header style="display: flex; align-items: center; justify-content: space-between;">
+<header style="display: flex; align-items: center; justify-content: space-between; background-color: #f7f7f7; padding: 20px;">
   <img src="logo.png" alt="NP Logo" style="width: 200px; height: auto; margin-right: 20px;">
   <div style="flex-grow: 1;">
     <h1>Nyanga P - DevOps and Cloud Engineer</h1>
@@ -11,19 +11,19 @@ title: Home
       <a href="https://www.linkedin.com/in/nyanga-p-674721258/" target="_blank">
         <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
       </a>
-      <a href="https://github.com/m-pasima/tech.io" target="_blank">
+      <a href="https://github.com/m-pasima/techy" target="_blank">
         <img src="https://img.shields.io/badge/-GitHub-181717?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
       </a>
     </p>
   </div>
 </header>
 
-<section id="objective" class="home-section">
+<section id="objective" class="home-section" style="background-color: #e9ecef; padding: 20px; border-radius: 8px; margin-bottom: 20px;">
   <h2>Objective</h2>
   <p>As a DevOps and Cloud Engineer with over 7 years of experience, I am dedicated to leveraging my expertise in cloud solutions, automation, and CI/CD processes to drive efficiency and innovation in technology environments.</p>
 </section>
 
-<section id="skills" class="home-section">
+<section id="skills" class="home-section" style="background-color: #f7f7f7; padding: 20px; border-radius: 8px; margin-bottom: 20px;">
   <h2>Skills</h2>
   <table class="table table-striped">
     <thead>
@@ -61,7 +61,7 @@ title: Home
   </table>
 </section>
 
-<section id="tools" class="home-section">
+<section id="tools" class="home-section" style="background-color: #e9ecef; padding: 20px; border-radius: 8px; margin-bottom: 20px;">
   <h2>Tools</h2>
   <h3>CI/CD and Automation</h3>
   <p>
@@ -96,7 +96,7 @@ title: Home
   </p>
 </section>
 
-<section id="experience" class="home-section">
+<section id="experience" class="home-section" style="background-color: #f7f7f7; padding: 20px; border-radius: 8px; margin-bottom: 20px;">
   <h2>Professional Experience</h2>
   <h3>Senior DevOps Engineer, Atomix LTD</h3>
   <p><strong>March 2023 – Present | Suffolk, United Kingdom</strong></p>
@@ -162,18 +162,18 @@ title: Home
   </ul>
 </section>
 
-<section id="education" class="home-section">
+<section id="education" class="home-section" style="background-color: #e9ecef; padding: 20px; border-radius: 8px; margin-bottom: 20px;">
   <h2>Education</h2>
   <p><strong>BSc Computer Science, Landmark Metropolitan University</strong><br>Buea, Cameroon</p>
 </section>
 
-<section id="interests" class="home-section">
+<section id="interests" class="home-section" style="background-color: #f7f7f7; padding: 20px; border-radius: 8px; margin-bottom: 20px;">
   <h2>Interests</h2>
   <p>Reading</p>
   <p>Travelling</p>
 </section>
 
-<section id="contact" class="home-section">
+<section id="contact" class="home-section" style="background-color: #e9ecef; padding: 20px; border-radius: 8px; margin-bottom: 20px;">
   <h2>Contact</h2>
   <p><strong>Nyanga P</strong></p>
   <p>Email: <a href="mailto:passypet@gmail.com">passypet@gmail.com</a></p>
@@ -181,7 +181,6 @@ title: Home
   <p>Location: Birmingham, UK</p>
   <p>Pronouns: She/Her</p>
 </section>
-
 
 
 
