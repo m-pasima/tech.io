@@ -35,6 +35,6 @@ nav_links:
   - title: "Contact"
     url: "/contact/"
   - title: "GitHub"
-    url: "https://github.com/m-pasima/techy"
+    url: "https://github.com/{{ site.github_username }}"
 
 
