@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -27,11 +28,30 @@
     </button>
     <div class="collapse navbar-collapse" id="navbarNav">
       <ul class="navbar-nav">
-        {% for link in site.nav_links %}
         <li class="nav-item">
-          <a class="nav-link" href="{{ link.url }}">{{ link.title }}</a>
+          <a class="nav-link" href="{{ site.baseurl }}/">Home</a>
         </li>
-        {% endfor %}
+        <li class="nav-item">
+          <a class="nav-link" href="{{ site.baseurl }}/#about">About</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="{{ site.baseurl }}/#skills">Skills</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="{{ site.baseurl }}/#experience">Experience</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="{{ site.baseurl }}/#education">Education</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="{{ site.baseurl }}/#interests">Interests</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="{{ site.baseurl }}/#contact">Contact</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="https://github.com/{{ site.github_username }}" target="_blank">GitHub</a>
+        </li>
       </ul>
     </div>
   </nav>
@@ -43,4 +63,3 @@
   <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 </body>
 </html>
-
