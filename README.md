@@ -25,7 +25,7 @@ To run this project, you will need to have the following installed:
 1. **Clone the repository**:
    ```sh
    https://github.com/m-pasima/tech.io.git
-   cd techy
+   cd tech
    ```
 
 2. **Install Jekyll and Bundler**:
