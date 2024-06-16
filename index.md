@@ -51,7 +51,7 @@ title: Home
       </tr>
       <tr>
         <td>Cloud Architecture and Deployment</td>
-        <td><a href="https://github.com/m-pasima/Cloud-Deployment-Project.git">Cloud Deployment Project</a></td>
+        <td><a href="https://github.com/m-pasima/Jenkins-on-EC2-with-Terraform-and-GitHub-Actions-Pipeline">Jenkins-on-EC2-with-Terraform-and-GitHub-Actions-Pipeline Project</a></td>
       </tr>
       <tr>
         <td>Containerization and Orchestration</td>
