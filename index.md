@@ -43,7 +43,7 @@ title: Home
       </tr>
       <tr>
         <td>CI/CD Security and Compliance</td>
-        <td><a href="https://github.com/m-pasima/CI-CD-Security-image-scan.git">Docker Security Image Scan</a></td>
+        <td><a href="https://github.com/m-pasima/CI-CD-Security-image-scan.git">Security Scanning for vulnerabilities in Docker images</a></td>
       </tr>
       <tr>
         <td>Hosting a WordPress Website on AWS EC2</td>
