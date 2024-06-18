@@ -35,7 +35,7 @@ title: Home
     <tbody>
       <tr>
         <td>CI/CD Automation</td>
-        <td><a href="https://github.com/m-pasima/CI-CD-Pipeline-Project">CI/CD Pipeline Project</a></td>
+        <td><a href="https://github.com/m-pasima/AI-WebApp.git"> End to End CI/CD Pipeline Project(GitHub,Jenkins, Maven, SonaQube, Nexus, Docker</a></td>
       </tr>
       <tr>
         <td>Infrastructure as Code (IaC)</td>
