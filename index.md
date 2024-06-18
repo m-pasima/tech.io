@@ -42,8 +42,8 @@ title: Home
         <td><a href="https://github.com/m-pasima/Aws-terraform-multi-tier-application.git">AWS 3 Tier architecture with ECS Terraform Project</a></td>
       </tr>
       <tr>
-        <td>Security and Compliance</td>
-        <td><a href="https://github.com/m-pasima/Security-Implementation-Project.git">Security Implementation Project</a></td>
+        <td>CI/CD Security and Compliance</td>
+        <td><a href="https://github.com/m-pasima/CI-CD-Security-image-scan.git">Security Implementation Project</a></td>
       </tr>
       <tr>
         <td>Hosting a WordPress Website on AWS EC2</td>
