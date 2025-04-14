@@ -46,6 +46,10 @@ title: Home
         <td><a href="https://github.com/m-pasima/CI-CD-Security-image-scan.git">Security Scanning for vulnerabilities in Docker images</a></td>
       </tr>
       <tr>
+        <td>Configuration-setup Amazon linux, s3 Bucket and Gmail Alert</td>
+        <td><a href="https://github.com/m-pasima/configuration-setup-ec2-Email.git">Linux-Email Alerts</a></td>
+      </tr>
+      <tr>
         <td>Hosting a WordPress Website on AWS EC2</td>
         <td><a href="https://github.com/m-pasima/Hosting-a-WordPress-Website-on-AWS-EC2.git">WordPress Website</a></td>
       </tr>
