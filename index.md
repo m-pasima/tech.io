@@ -20,7 +20,9 @@ title: Home
 
 <section id="objective" class="home-section" style="background-color: #e9ecef; padding: 20px; border-radius: 8px; margin-bottom: 20px;">
   <h2>Objective</h2>
-  <p>As a DevOps and Cloud Engineer with over 7 years of experience, I am dedicated to leveraging my expertise in cloud solutions, automation, and CI/CD processes to drive efficiency and innovation in technology environments.</p>
+  <p>Results-driven self-taught DevOps Engineer with 6+ years specializing in cloud-native automation, CI/CD pipelines, and infrastructure-as-code.
+ Expert in AWS, GCP, Kubernetes (EKS, GKE), and Terraform/Terragrunt, delivering scalable, secure solutions. Proven track record: accelerated
+ deployments by 80%, cut costs 30%, and maintained 99.99% uptime across multi-cloud environments.</p>
 </section>
 
 <section id="skills" class="home-section" style="background-color: #f7f7f7; padding: 20px; border-radius: 8px; margin-bottom: 20px;">
@@ -172,7 +174,7 @@ title: Home
 
 <section id="education" class="home-section" style="background-color: #e9ecef; padding: 20px; border-radius: 8px; margin-bottom: 20px;">
   <h2 id="education">Education</h2>
-  <p><strong>BSc Computer Science, Landmark Metropolitan University</strong><br>Buea, Cameroon</p>
+  <p><strong>B A  (Hons) History</strong><br>Buea, Cameroon</p>
 </section>
 
 <section id="interests" class="home-section" style="background-color: #f7f7f7; padding: 20px; border-radius: 8px; margin-bottom: 20px;">
