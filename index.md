@@ -3,11 +3,11 @@ layout: default
 title: Home
 ---
 
-<header style="display: flex; align-items: center; justify-content: space-between; background-color: #f7f7f7; padding: 20px;">
-  <img src="logo.png" alt="NP Logo" style="width: 200px; height: auto; margin-right: 20px;">
-  <div style="flex-grow: 1;">
-    <h1>Nyanga P - DevOps and Cloud Engineer</h1>
-    <p>
+<header class="d-flex align-items-center justify-content-between bg-light p-4 mb-4">
+  <img src="logo.png" alt="NP Logo" style="width: 200px; height: auto;" class="mr-3" />
+  <div class="flex-grow-1">
+    <h1 class="h3 mb-2">Nyanga P - DevOps and Cloud Engineer</h1>
+    <p class="mb-0">
       <a href="https://www.linkedin.com/in/nyanga-p-674721258/" target="_blank">
         <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
       </a>
@@ -18,14 +18,12 @@ title: Home
   </div>
 </header>
 
-<section id="objective" class="home-section" style="background-color: #e9ecef; padding: 20px; border-radius: 8px; margin-bottom: 20px;">
+<section id="objective" class="bg-light p-4 rounded mb-4">
   <h2>Objective</h2>
-  <p>Results-driven self-taught DevOps Engineer with 6+ years specializing in cloud-native automation, CI/CD pipelines, and infrastructure-as-code.
- Expert in AWS, GCP, Kubernetes (EKS, GKE), and Terraform/Terragrunt, delivering scalable, secure solutions. Proven track record: accelerated
- deployments by 80%, cut costs 30%, and maintained 99.99% uptime across multi-cloud environments.</p>
+  <p>Results-driven self-taught DevOps Engineer with 6+ years specializing in cloud-native automation, CI/CD pipelines, and infrastructure-as-code. Expert in AWS, GCP, Kubernetes (EKS, GKE), and Terraform/Terragrunt, delivering scalable, secure solutions. Proven track record: accelerated deployments by 80%, cut costs 30%, and maintained 99.99% uptime across multi-cloud environments.</p>
 </section>
 
-<section id="skills" class="home-section" style="background-color: #f7f7f7; padding: 20px; border-radius: 8px; margin-bottom: 20px;">
+<section id="skills" class="bg-white p-4 rounded mb-4">
   <h2 id="skills">Skills</h2>
   <table class="table table-striped">
     <thead>
@@ -37,7 +35,7 @@ title: Home
     <tbody>
       <tr>
         <td>CI/CD Automation</td>
-        <td><a href="https://github.com/m-pasima/AI-WebApp.git"> End to End CI/CD Pipeline Project(GitHub,Jenkins, Maven, SonaQube, Nexus, Docker</a></td>
+        <td><a href="https://github.com/m-pasima/AI-WebApp.git">End to End CI/CD Pipeline Project (GitHub, Jenkins, Maven, SonarQube, Nexus, Docker)</a></td>
       </tr>
       <tr>
         <td>Infrastructure as Code (IaC)</td>
@@ -71,7 +69,7 @@ title: Home
   </table>
 </section>
 
-<section id="tools" class="home-section" style="background-color: #e9ecef; padding: 20px; border-radius: 8px; margin-bottom: 20px;">
+<section id="tools" class="bg-light p-4 rounded mb-4">
   <h2 id="tools">Tools</h2>
   <h3>CI/CD and Automation</h3>
   <p>
@@ -106,84 +104,72 @@ title: Home
   </p>
 </section>
 
-<section id="experience" class="home-section" style="background-color: #f7f7f7; padding: 20px; border-radius: 8px; margin-bottom: 20px;">
+<section id="experience" class="bg-white p-4 rounded mb-4">
   <h2 id="experience">Professional Experience</h2>
   <h3>Senior DevOps Engineer, Atomix LTD</h3>
   <p><strong>March 2023 – Present | Suffolk, United Kingdom</strong></p>
   <ul>
     <li>Planned and architected infrastructure deployment using Draw.io, ensuring compliance with security and data regulations.</li>
-    <li>Set up OpenVPN for secure user access, including the creation of users and groups, and assigned permissions based on the principle of least privilege.</li>
+    <li>Set up OpenVPN for secure user access and assigned permissions based on the principle of least privilege.</li>
     <li>Established self-hosted CI/CD pipelines using GitHub Actions for automation processes.</li>
-    <li>Deployed services in Google Cloud Platform (GCP) using Terraform and Terragrunt, focusing on Infrastructure as Code (IaC). This involved setting up various services such as Virtual Private Cloud (VPC) and its components, private Google Kubernetes Engine (GKE) clusters, Artifact Registry, Identity and Access Management (IAM), service accounts, and Secrets Manager.</li>
-    <li>Utilized Terraform to create GCP groups, add team members, and assign relevant privileges.</li>
+    <li>Deployed services in Google Cloud Platform (GCP) using Terraform and Terragrunt, focusing on Infrastructure as Code (IaC).</li>
     <li>Configured and developed Helm charts from scratch for deploying tools like Argo CD, Redis, and PostgreSQL and production applications.</li>
     <li>Employed Helm charts for deploying monitoring tools such as Prometheus and Grafana, and for creating Grafana dashboards.</li>
     <li>Modified and enhanced Bash scripts and Python scripts for automation purposes.</li>
-    <li>Deployed applications into private GKE clusters using Helm charts and performed troubleshooting of containerized applications in Kubernetes.</li>
-    <li>Configured and managed the rotation of secrets in GCP Secrets, setup Cloudflare and implemented SSL certificates in private clusters using Terraform.</li>
-    <li>Set up monitoring metrics in the GCP environment.</li>
-    <li>Configured and set up disaster recovery solutions in the production environment.</li>
-    <li>Planned projects, broke down tasks, and created Jira tasks.</li>
-    <li>Documented projects using Confluence.</li>
+    <li>Deployed applications into private GKE clusters using Helm charts and performed troubleshooting of containerized applications.</li>
+    <li>Configured and managed the rotation of secrets in GCP Secrets and implemented SSL certificates in private clusters using Terraform.</li>
+    <li>Set up monitoring metrics in the GCP environment and configured disaster recovery solutions.</li>
+    <li>Planned projects, broke down tasks, and documented projects using Jira and Confluence.</li>
   </ul>
 
   <h3>DevOps Engineer, BP</h3>
   <p><strong>April 2020 – March 2023 | London, United Kingdom</strong></p>
   <ul>
-    <li>Engineered intricate CI/CD pipelines, utilizing Jenkins and GitHub Actions, allowing faster and reliable deployments.</li>
-    <li>Led the transition from a monolithic architecture to a microservices-based setup, from Tomcat to EKS substantially improving system reliability and scalability.</li>
-    <li>Implemented a robust monitoring solution incorporating elevated security protocols within Linux-based systems, Docker containers, and Kubernetes clusters in both AWS EKS and GCP GKE.</li>
-    <li>Created and configured OpenVPN, creating user groups for secure and role-based access. Used VPNs for secure CI/CD deployments.</li>
+    <li>Engineered intricate CI/CD pipelines utilizing Jenkins and GitHub Actions for faster, reliable deployments.</li>
+    <li>Transitioned from a monolithic architecture to microservices, moving from Tomcat to EKS for improved scalability.</li>
+    <li>Implemented monitoring solutions for Linux systems, Docker containers, and Kubernetes clusters in AWS EKS and GCP GKE.</li>
+    <li>Created and configured OpenVPN for secure, role-based access during CI/CD deployments.</li>
     <li>Wrote Terraform and Terragrunt scripts for automated infrastructure provisioning on AWS.</li>
     <li>Utilized Ansible with dynamic inventory for server configuration.</li>
-    <li>Involved in the recruitment process, training new team members, and introducing them to our technology stack.</li>
-    <li>Regularly attended job-related seminars and training sessions to keep up-to-date with the latest industry trends and technologies.</li>
-    <li>Configured and set up IAM roles for contractors.</li>
-    <li>Configured and set up various AWS services, including Application Load Balancer (ALB), Virtual Private Cloud (VPC), subnets, CloudFront, Relational Database Service (RDS), DynamoDB, Route 53, Web Application Firewall (WAF), Simple Storage Service (S3), Elastic File System (EFS), Identity and Access Management (IAM), Secrets Manager, Certificate Manager, CloudWatch, and Auto Scaling groups, among others.</li>
+    <li>Trained new team members and attended industry seminars to stay up to date with trends.</li>
+    <li>Configured a wide range of AWS services including ALB, VPC, CloudFront, RDS, DynamoDB, Route 53, WAF, S3, EFS, IAM, Secrets Manager, and more.</li>
   </ul>
 
   <h3>Build and Release Engineer, Sky</h3>
   <p><strong>November 2017 – March 2020 | London, United Kingdom</strong></p>
   <ul>
     <li>Developed an automated build process integrating Jenkins, Git, Maven, SonarQube, Nexus, Docker, Ansible, and Terraform.</li>
-    <li>Collaborated across teams for web software build, release, and deployment projects.</li>
-    <li>Created Jenkinsfile for automated deployments.</li>
-    <li>Configured and managed Jenkins server for CI/CD pipelines.</li>
-    <li>Automated the software development process and monitored infrastructure performance using New Relic.</li>
-    <li>Modified Helm charts for deployments.</li>
-    <li>Ensured compliance with the company’s DevOps standards.</li>
-    <li>Configured NACL, ACL, and security groups on AWS for access control.</li>
-    <li>Supported and maintained hardware and software infrastructure on Linux-based systems.</li>
-    <li>Performed manual production deployments and shadowed senior engineers.</li>
-    <li>Participated in project planning and task allocation.</li>
+    <li>Collaborated across teams for software build, release, and deployment projects.</li>
+    <li>Created Jenkinsfile for automated deployments and managed Jenkins server for CI/CD pipelines.</li>
+    <li>Automated software development processes and monitored infrastructure performance using New Relic.</li>
+    <li>Modified Helm charts for deployments and ensured compliance with DevOps standards.</li>
+    <li>Configured NACL, ACL, and security groups on AWS for access control and supported Linux-based infrastructure.</li>
+    <li>Performed manual production deployments and participated in project planning and task allocation.</li>
   </ul>
 
   <h3>Junior AWS Cloud and Linux Engineer, Diebold Nixdorf Software Partner B.V.</h3>
   <p><strong>June 2016 – September 2017 | Bromley, United Kingdom</strong></p>
   <ul>
     <li>Leveraged AWS Cloud Practitioner expertise for robust AWS service deployment including EC2, VPC, Security Groups, ASG, IAM, Route 53, and ELB.</li>
-    <li>Utilized Infrastructure as Code (Terraform) for automated AWS resource provisioning, enhancing deployment efficiency and environment consistency.</li>
-    <li>Administered RHEL operating systems, ensuring system reliability, performance, and security through regular updates and patch management.</li>
-    <li>Applied Agile methodology for collaborative project delivery, participating in stand-ups, sprint planning, and retrospectives.</li>
-    <li>Engineered cloud solutions with AWS, setting up scalable and resilient architectures for enterprise applications.</li>
-    <li>Maintained hardware and software infrastructure in compliance with best practices, including security and data protection strategies.</li>
-    <li>Conducted manual production deployments using Linux commands for precise release control and immediate issue resolution.</li>
-    <li>Engaged in continuous learning and mentorship by shadowing senior engineers, addressing complex issues with proficient support.</li>
+    <li>Utilized Terraform for automated AWS resource provisioning to enhance deployment efficiency.</li>
+    <li>Administered RHEL systems and applied Agile methodologies for collaborative project delivery.</li>
+    <li>Engineered scalable AWS architectures for enterprise applications and maintained infrastructure security.</li>
+    <li>Performed manual production deployments using Linux commands and provided mentorship by shadowing senior engineers.</li>
   </ul>
 </section>
 
-<section id="education" class="home-section" style="background-color: #e9ecef; padding: 20px; border-radius: 8px; margin-bottom: 20px;">
+<section id="education" class="bg-light p-4 rounded mb-4">
   <h2 id="education">Education</h2>
-  <p><strong>B A  (Hons) History</strong><br>Buea, Cameroon</p>
+  <p><strong>B A (Hons) History</strong><br>Buea, Cameroon</p>
 </section>
 
-<section id="interests" class="home-section" style="background-color: #f7f7f7; padding: 20px; border-radius: 8px; margin-bottom: 20px;">
+<section id="interests" class="bg-white p-4 rounded mb-4">
   <h2 id="interests">Interests</h2>
   <p>Reading</p>
   <p>Travelling</p>
 </section>
 
-<section id="contact" class="home-section" style="background-color: #e9ecef; padding: 20px; border-radius: 8px; margin-bottom: 20px;">
+<section id="contact" class="bg-light p-4 rounded mb-4">
   <h2 id="contact">Contact</h2>
   <p><strong>Nyanga P</strong></p>
   <p>Email: <a href="mailto:passypet@gmail.com">passypet@gmail.com</a></p>
@@ -191,7 +177,3 @@ title: Home
   <p>Location: Birmingham, UK</p>
   <p>Pronouns: She/Her</p>
 </section>
-
-
-
-
